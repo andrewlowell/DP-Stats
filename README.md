@@ -1,14 +1,11 @@
 # How to use DP Stats
 
-1. Download the repository.
+1. Download the repository to your home directory.
 
-2. On an ubuntu linux machine, run the following in the command prompt, without the "$":
+2. On Ubuntu Linux, run the following commands, without the "$":
 ```
 $ sudo apt-get install ruby
 $ sudo gem install descriptive_statistics
-```
-
-3. Run the following:
-```
+$ cd dpstats
 $ ruby dpstats.rb
 ```
